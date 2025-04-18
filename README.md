@@ -8,7 +8,7 @@
 <td width="50%" align="left">
   
 
-- 📝 I'm a passionate IT student at the University of Vavuniya with a strong interest in software development and tech innovation. I love building practical solutions, especially in the mobile and web development space.
+ 📝 I'm a passionate IT student at the University of Vavuniya with a strong interest in software development and tech innovation. I love building practical solutions, especially in the mobile and web development space.
 </td>
 <td width="50%" align="center">
 
