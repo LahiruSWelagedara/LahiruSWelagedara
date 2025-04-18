@@ -12,7 +12,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjU0bHcwNGhrczYxOTZxZTg4cTZpN2dkMDN3ZHY4cmNlbnp0c2x0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1XCcD9VLQZ2Io/giphy.gif">
+ <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
   
   </td>
 
