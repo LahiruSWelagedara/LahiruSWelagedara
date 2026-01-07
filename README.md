@@ -48,7 +48,7 @@
 <h2 align="center" id="-connect-with-me">🤝🏻 &nbsp;Connect with Me</h2>
 <br>
 <p align="center">
-<a href="www.linkedin.com/in/lahiru-welagedara-532a792a8" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="azzar" height="30"></a>
+<a href="https://www.linkedin.com/in/lahiru-welagedara-532a792a8" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="azzar" height="30"></a>
       <a href="(https://www.facebook.com/share/1EEKNXULqd/)" target="blank"><img align="center" src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="azzar" height="30"></a>
       <a href="mailto:lswelagedara2001@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="azzar" height="30"></a>
     </p>
